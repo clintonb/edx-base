@@ -8,6 +8,7 @@ ENV PYTHONUNBUFFERED 1
 RUN apk add --update \
     build-base \
     gettext \
+    git \
     libffi-dev \
     libjpeg-turbo-dev \
     libmemcached-dev \

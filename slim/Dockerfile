@@ -9,6 +9,7 @@ RUN apt-get update && \
     apt-get install -y \
         build-essential \
         gettext \
+        git \
         libffi-dev \
         libjpeg-dev \
         libmemcached-dev \
