@@ -1,4 +1,4 @@
-# docker build -t clintonb/edx-base:slim - < slim/Dockerfile
+# docker build -t clintonb/edx-base:python-3.5-slim - < python/3.5/slim/Dockerfile
 
 FROM python:3.5-slim
 ENV PYTHONUNBUFFERED 1
