@@ -14,5 +14,6 @@ RUN apt-get update && \
         libjpeg-dev \
         libmemcached-dev \
         libmysqlclient-dev \
+        libpng12-dev \
         libssl-dev \
         nodejs
